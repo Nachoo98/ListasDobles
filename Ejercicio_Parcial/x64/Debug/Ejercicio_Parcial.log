@@ -1,0 +1,8 @@
+﻿  Ejercicio_Parcial.cpp
+C:\Users\MSI\Desktop\Ejercicio_Parcial\Ejercicio_Parcial\Ejercicio_Parcial.cpp(62,10): warning C4778: 'printf' : cadena de formato sin terminar '%\n'
+C:\Users\MSI\Desktop\Ejercicio_Parcial\Ejercicio_Parcial\Ejercicio_Parcial.cpp(157,34): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\MSI\Desktop\Ejercicio_Parcial\Ejercicio_Parcial\Ejercicio_Parcial.cpp(164,35): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\MSI\Desktop\Ejercicio_Parcial\Ejercicio_Parcial\Ejercicio_Parcial.cpp(265,34): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\MSI\Desktop\Ejercicio_Parcial\Ejercicio_Parcial\Ejercicio_Parcial.cpp(270,35): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\MSI\Desktop\Ejercicio_Parcial\Ejercicio_Parcial\Ejercicio_Parcial.cpp(139,14): warning C4101: 'vector': variable local sin referencia
+  Ejercicio_Parcial.vcxproj -> C:\Users\MSI\Desktop\Ejercicio_Parcial\x64\Debug\Ejercicio_Parcial.exe
